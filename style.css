@@ -1,0 +1,41 @@
+.navbar-nav {
+    font-family:'Times New Roman', Times, serif;
+    font-size: larger;
+    
+    
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 490px;
+    margin-right: auto;
+    margin-left: auto;
+    
+    
+}
+
+
+
+.blue{
+    background-color: blue;
+}
+.text-center{
+text-align: center!important;
+color: white;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 60px;
+font-weight: 700;
+margin: 2rem;
+
+}
+
+
+.teg{
+    text-align: center!important;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+   font-weight: 100
+
+
+
+}
+
